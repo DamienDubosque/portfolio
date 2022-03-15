@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "titre": "Développement Front-End",
+    "competence": "HTML - CSS - JS - VueJS/CLI - Wordpress",
+    "etablissement": "2020 - Lycée Amélie Zurcher, Wittelsheim, Alsace, France",
+    "diplome": "Bac Scientifique spécialité Sciences de la Vie et de la Terre, mention assez bien."
+
+  },
+  {
+    "id": "2",
+    "titre": "Webdesign",
+    "competence": "Adobe Xd - Adobe Photoshop - Adobe Illustrator - UX/UI",
+    "etablissement": "2020 - 2022, Université Belfort-Montbéliard, Doubs, France",
+    "diplome": "DUT MMI (Métiers du Multimédia et de l'Internet)."
+  },
+  {
+    "id": "3",
+    "titre": "3D",
+    "competence": "Blender - 3DSMax"
+  }
+]

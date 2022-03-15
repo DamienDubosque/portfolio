@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Soria";
+  src: url("../src/assets/font/soria-font.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Leelawadee UI";
+  src: local('Leelawadee UI'), url("src/assets/font/leelawui.ttf") format("truetype");
+}
